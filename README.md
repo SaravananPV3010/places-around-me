@@ -3,7 +3,6 @@
 To develop a website to display details about the places around my house.
 
 ## Design Steps:
-
 ### Step 1:
 Fork the repository to your github and clone it into a folder in github
 ### Step 2:
